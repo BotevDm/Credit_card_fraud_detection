@@ -12,3 +12,5 @@ Visualize data
 Analyze the given data to obtain useful insights
 Build a model for detection potential CC frauds
 Data Source: The dataset was collected from credit card transactions made by European cardholders in 2023, with sensitive information removed to ensure privacy and compliance with ethical guidelines
+
+### HTML-file is a saved version of .ipynb format and contains the executed code with results and visualization (diagrams, plots etc.)
